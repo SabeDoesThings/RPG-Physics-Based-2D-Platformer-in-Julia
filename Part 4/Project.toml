@@ -1,0 +1,7 @@
+name = "SDLPlatformer"
+uuid = "6d2eff81-7d6a-47ef-a313-866df44c7666"
+authors = ["Sup0088 <swirlface09@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+SimpleDirectMediaLayer = "98e33af6-2ee5-5afd-9e75-cbc738b767c4"
